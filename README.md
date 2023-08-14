@@ -1,16 +1,25 @@
-# Olá, me chamo Lucas Lima 👋
-### Bem vindo ao meu perfil GitHub!
-<!--
-**lucaskrlima/lucaskrlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, me chamo Lucas Lima 👋
+Bem vindo ao meu perfil GitHub!
 
-Here are some ideas to get you started:
+Analista de dados e apaixonado por Transformação Digital. Entusiasta de programação python e IA, praticante de esporte de alta intensidade nas horas vagas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 👨🏻‍💻 **Analista de Dados** formado pela [SoulCode Academy](https://soulcode.com/)
+* 🖥️ Atualmente mais focado em:
+
+<div style="display: inline">
+<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</div>
+
+##
+
+### Você pode me contatar em:
+<div>
+<a href="https://instagram.com/lucaskrlima" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:kaue_lucas@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucaskrlima" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+          
+          
