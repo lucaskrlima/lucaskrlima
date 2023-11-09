@@ -3,7 +3,7 @@ Bem vindo ao meu perfil GitHub!
 
 Analista de dados e apaixonado por Transformação Digital. Entusiasta de programação python e IA, praticante de esporte de alta intensidade nas horas vagas.
 
-* 👨🏻‍💻 **Analista de Dados** formado pela [SoulCode Academy](https://soulcode.com/)
+* 👨🏻‍💻 **Analista de Dados** 
 * 🖥️ Atualmente mais focado em:
 
 <div style="display: inline">
