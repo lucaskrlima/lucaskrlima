@@ -1,9 +1,9 @@
 ### Olá, me chamo Lucas Lima 👋
 Bem vindo ao meu perfil GitHub!
 
-Analista de dados e apaixonado por Transformação Digital. Entusiasta de programação python e IA, praticante de esporte de alta intensidade nas horas vagas.
+Aspirante a Cientista de Dados e apaixonado por estudar, compreender e resolver problemas matemáticos e computacionais. Entusiasta de programação python e machine learning.
 
-* 👨🏻‍💻 **Analista de Dados** 
+* 👨🏻‍💻 **Data Scientist aspirant** 
 * 🖥️ Atualmente mais focado em:
 
 <div style="display: inline">
