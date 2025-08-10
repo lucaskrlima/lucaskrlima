@@ -10,6 +10,8 @@ Aspirante a Cientista de Dados e apaixonado por estudar, compreender e resolver 
 <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
+          
 </div>
 
 ##
