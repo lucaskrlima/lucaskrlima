@@ -1,9 +1,8 @@
 ### Olá, me chamo Lucas Lima 👋
 Bem vindo ao meu perfil GitHub!
 
-Aspirante a Cientista de Dados e apaixonado por estudar, compreender e resolver problemas matemáticos e computacionais. Entusiasta de programação python e machine learning.
+Bem-vindo ao meu repositório. Eu sou um profissional em transição de carreira, migrando de Planejamento Técnico e Engenharia de Sistemas para Cloud Engineering e Engenharia de Confiabilidade de Sites (SRE). Meu foco é na arquitetura de sistemas escaláveis e resilientes, regida pelo princípio do rigor e da automação.
 
-* 👨🏻‍💻 **Data Scientist aspirant** 
 * 🖥️ Atualmente mais focado em:
 
 <div style="display: inline">
