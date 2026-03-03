@@ -1,7 +1,23 @@
 ### Olá, me chamo Lucas Lima 👋
 Bem vindo ao meu perfil GitHub!
 
-Bem-vindo ao meu repositório. Eu sou um profissional de Data & AI Engineering.
+Bem-vindo ao meu repositório. 
+
+Data Science | AI | Industrial Reliability
+
+Engenharia de Manutenção → Ciência de Dados aplicada à indústria.
+
+Interesses técnicos:
+
+Predictive Maintenance
+
+Anomaly Detection
+
+Computer Vision
+
+Optimization
+
+Industrial AI
 
 * 🖥️ Atualmente mais focado em:
 
